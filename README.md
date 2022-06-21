@@ -9,7 +9,12 @@
 
 # Reflection 
 1. What was the problem you were solving in the projects for this course?
-2. How did you approach the problem? Consider why data structures are important to understand.
-3. How did you overcome any roadblocks you encountered while going through the activities or project?
-4. How has your work on this project expanded your approach to designing software and developing programs?
-5. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+* In this project, I was having problem with inserting the data into the Binary tree after coding the BST structure and insert function. 
+3. How did you approach the problem? Consider why data structures are important to understand.
+* I used Module 5, BST assignment code as my reference and approached to SNHU tutor for explanation.  
+5. How did you overcome any roadblocks you encountered while going through the activities or project?
+* For the activites, I did many researches by using stackoverflow.com, geekforgeek.com, Cplusplus.com, review notes from ZY BOOK and the youtube video that was recommanded by the Professor. 
+* For the projects, I used the code from the previous assignments as reference, and approached to the tutuor for detail explanation.  
+7. How has your work on this project expanded your approach to designing software and developing programs?
+* 
+9. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
