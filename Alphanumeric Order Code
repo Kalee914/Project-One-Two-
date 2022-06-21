@@ -1,0 +1,14 @@
+# Alphanumeric Order Code 
+
+void BinarySearchTree::inOrder(TreeNode* treeNode) {
+	if (treeNode != nullptr) {
+		inOrder(treeNode->left);
+		cout << treeNode->courseData.courseNum << ", " << treeNode->courseData.courseTitle << endl;
+		inOrder(treeNode->right);
+	}
+}
+
+// Traverse the tree in order
+void BinarySearchTree::InOrder() {
+	this->inOrder(root);
+}
