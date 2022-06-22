@@ -10,11 +10,16 @@
 # Reflection 
 1. What was the problem you were solving in the projects for this course?
 * In this project, I was having problem with inserting the data into the Binary tree after coding the BST structure and insert function. 
-3. How did you approach the problem? Consider why data structures are important to understand.
+2. How did you approach the problem? Consider why data structures are important to understand.
 * I used Module 5, BST assignment code as my reference and approached to SNHU tutor for explanation.  
-5. How did you overcome any roadblocks you encountered while going through the activities or project?
+3. How did you overcome any roadblocks you encountered while going through the activities or project?
 * For the activites, I did many researches by using stackoverflow.com, geekforgeek.com, Cplusplus.com, review notes from ZY BOOK and the youtube video that was recommanded by the Professor. 
 * For the projects, I used the code from the previous assignments as reference, and approached to the tutuor for detail explanation.  
-7. How has your work on this project expanded your approach to designing software and developing programs?
-* 
-9. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+4. How has your work on this project expanded your approach to designing software and developing programs?
+* Project one - Write psedocodes for each data structure that can possiblity used for the program has explanded my approach of analyzing, planning, organization and allocate resourse to desingning software and developing programs. 
+5. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+* While working ont his project, I made sure my codes were readable, maintainable and adaptable by ensuring a few things: 
+* multi-line comments to breifly explain the program 
+* Comprehensive variable names
+* Well organized code & algorithm with in line comments 
+* style consistancy, such as captializations of the variables. 
